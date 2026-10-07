@@ -1,0 +1,11 @@
+MoveX Urban Mobility Analytics - Relationships
+
+customers.customer_id -> rides.customer_id
+drivers.driver_id -> rides.driver_id
+vehicles.vehicle_id -> rides.vehicle_id
+locations.location_id -> rides.pickup_location_id
+locations.location_id -> rides.drop_location_id
+rides.ride_id -> payments.ride_id
+
+Synthetic portfolio dataset.
+Date range: 2025-01-01 to 2025-12-31.

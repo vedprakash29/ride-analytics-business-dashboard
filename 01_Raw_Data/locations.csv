@@ -1,0 +1,31 @@
+location_id,city,area,zone_type
+40001,Chandigarh,Sector 17,Residential
+40002,Chandigarh,Sector 22,Airport
+40003,Chandigarh,Sector 35,Residential
+40004,Chandigarh,Industrial Area,Airport
+40005,Chandigarh,Manimajra,Industrial
+40006,Panchkula,Sector 5,Airport
+40007,Panchkula,Sector 8,Commercial
+40008,Panchkula,Sector 11,Residential
+40009,Panchkula,Sector 20,Airport
+40010,Panchkula,Industrial Area,Residential
+40011,Mohali,Phase 3B2,Transit Hub
+40012,Mohali,Phase 5,Transit Hub
+40013,Mohali,Sector 70,Airport
+40014,Mohali,Sector 74,Commercial
+40015,Mohali,Industrial Area,Airport
+40016,Delhi,Connaught Place,Airport
+40017,Delhi,Saket,Commercial
+40018,Delhi,Dwarka,Commercial
+40019,Delhi,Rohini,Residential
+40020,Delhi,Lajpat Nagar,Transit Hub
+40021,Gurugram,Cyber City,Commercial
+40022,Gurugram,MG Road,Residential
+40023,Gurugram,Sohna Road,Transit Hub
+40024,Gurugram,Golf Course Road,Transit Hub
+40025,Gurugram,Sector 57,Residential
+40026,Noida,Sector 18,Residential
+40027,Noida,Sector 62,Residential
+40028,Noida,Sector 137,Airport
+40029,Noida,Sector 142,Commercial
+40030,Noida,Film City,Residential

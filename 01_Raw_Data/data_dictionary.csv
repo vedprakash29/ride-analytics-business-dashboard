@@ -1,0 +1,7 @@
+table_name,purpose,grain
+customers,Customer master,1 row = 1 customer
+drivers,Driver master,1 row = 1 driver
+vehicles,Vehicle master,1 row = 1 vehicle
+locations,Pickup/drop master,1 row = 1 location
+rides,Core ride transactions,1 row = 1 ride request
+payments,Payment records,1 row = 1 completed ride
