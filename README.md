@@ -109,6 +109,8 @@ These relationships support cross-table analysis of customers, drivers, vehicles
 
 An interactive Power BI dashboard was developed to monitor key business metrics and explore ride-booking performance.
 
+![Ride Analytics Dashboard](07_Documentation/ride_analytics_dashboard.png)
+
 Dashboard Components
 
 - KPI cards for total rides, completed rides, cancellations, revenue, average fare, and average distance.
