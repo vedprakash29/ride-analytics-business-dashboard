@@ -1,0 +1,61 @@
+# RIDE ANALYTICS & BUSINESS PERFORMANCE DASHBOARD
+
+## Business Insights & Recommendations
+
+### 1. Project Overview
+This document summarizes the key findings from the Ride Analytics project and provides recommendations based on ride, revenue, cancellation, vehicle, customer, driver, and payment analysis.
+
+### 2. Key Business Insights
+
+**Insight 1: Ride Volume and Completion**
+- Total rides analyzed: 20,000.
+- Completed rides: 16,795.
+- Ride completion rate: approximately 83.98%.
+- Recommendation: Monitor ride completion trends by date, city, and vehicle type to identify operational improvements.
+
+**Insight 2: Ride Cancellations**
+- Total cancelled rides, including customer and driver cancellations: 3,205.
+- Cancellation rate: approximately 16.02%.
+- Customer cancellations: 1,381.
+- Driver cancellations: 1,025.
+- No-driver-found rides: 799.
+- Recommendation: Investigate cancellation patterns by time, location, distance, and vehicle type. Review driver availability and booking demand, especially where no driver is found.
+
+**Insight 3: Payment Performance**
+- Paid revenue: ₹20,54,498.80.
+- Failed payment amount: ₹31,318.87.
+- Payment success rate: approximately 98.48%.
+- Payment failure rate: approximately 1.52%.
+- Recommendation: Monitor failed transactions and investigate whether failures are concentrated in particular payment methods or periods.
+
+**Insight 4: Vehicle Performance**
+- Sedan generated the highest revenue among vehicle categories in the ride-based analysis, approximately ₹8,22,472.32.
+- Auto revenue: approximately ₹6,94,902.26.
+- Bike revenue: approximately ₹5,79,053.02.
+- SUV revenue: approximately ₹3,90,763.70.
+- Recommendation: Compare revenue with ride volume, operating costs, and vehicle availability before making fleet allocation decisions.
+
+**Insight 5: Payment Method**
+- UPI was the leading payment method by transaction volume and revenue in the analysis.
+- Recommendation: Continue monitoring payment method performance and investigate failed payments to improve the customer payment experience.
+
+**Insight 6: Geographic Performance**
+- Delhi was the highest-revenue city in the dashboard analysis.
+- Recommendation: Compare demand, ride completion, cancellations, and driver availability across cities to identify opportunities for operational improvement.
+
+### 3. Overall Recommendations
+1. Investigate the main causes of customer and driver cancellations.
+2. Improve driver availability in areas with no-driver-found bookings.
+3. Monitor payment failures and payment success rates over time.
+4. Compare vehicle performance using revenue, ride volume, and operational costs.
+5. Use dashboard filters to investigate trends by date, city, vehicle type, and ride status.
+6. Review KPIs regularly to identify changes in business performance.
+
+### 4. Conclusion
+The analysis provides an overview of ride operations, cancellations, vehicle performance, geographic revenue, and payment outcomes. The findings can help guide further investigation and support data-informed business decisions. Recommendations should be validated with additional operational and cost data before implementation.
+
+### 5. Tools Used
+- Excel: Data cleaning and preparation.
+- SQL: Data querying and analytical checks.
+- Power BI: Data modeling, DAX measures, dashboard, and interactive analysis.
+- Python (Pandas): Exploratory analysis, metric calculations, and report generation.
