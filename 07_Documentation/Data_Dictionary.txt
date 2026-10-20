@@ -1,0 +1,37 @@
+RIDE ANALYTICS & BUSINESS PERFORMANCE DASHBOARD
+
+Data Dictionary
+
+1. Customers
+
+Purpose: Customer ki information store karta hai, jaise name, gender, age, city aur signup date.
+Grain: Har row ek customer ko represent karti hai.
+
+2. Drivers
+
+Purpose: Driver ki information store karta hai, jaise name, gender, age, city, joining date aur rating.
+Grain: Har row ek driver ko represent karti hai.
+
+3. Vehicles
+
+Purpose: Vehicle ki information store karta hai, jaise vehicle type, model, year aur associated driver.
+Grain: Har row ek vehicle ko represent karti hai.
+
+4. Locations
+
+Purpose: Location ki details store karta hai, jaise city, area aur zone type.
+Grain: Har row ek location ko represent karti hai.
+
+5. Rides
+
+Purpose: Ride transactions ki details store karta hai, jaise customer, driver, vehicle, pickup/drop location, date, time, distance, fare aur ride status.
+Grain: Har row ek ride ko represent karti hai.
+
+6. Payments
+
+Purpose: Payment ki details store karta hai, jaise payment method, payment status aur amount.
+Grain: Har row ek payment record ko represent karti hai.
+
+Project Note
+
+This Data Dictionary explains the purpose and level of detail of each dataset table used in the Ride Analytics project.
